@@ -1,0 +1,48 @@
+{"text":"hello","nick":"bob","date":"2020-05-19T00:37:39.089Z","room":"random"}
+{"text":"what's up","nick":"bob","date":"2020-05-19T00:53:35.562Z"}
+{"text":"haha","nick":"bob","room":"random","date":"2020-05-19T00:54:48.450Z"}
+{"text":"hey lets chill out in here","nick":"bob","room":"chill","date":"2020-05-19T01:23:41.827Z"}
+{"text":"hello","nick":"bob","room":"hackz","date":"2020-05-19T01:25:56.735Z"}
+{"text":"hello","nick":"bob","room":"general","date":"2020-05-19T01:28:17.881Z"}
+{"text":"hey there","nick":"bob","room":"general","date":"2020-05-19T01:28:24.168Z"}
+{"text":"heyyyy","nick":"dude","room":"stuff","date":"2020-05-19T01:47:05.104Z"}
+{"text":"woowww","nick":"dude","room":"programming","date":"2020-05-19T01:47:55.265Z"}
+{"text":"hey","nick":"dude","room":"general","date":"2020-05-19T01:48:15.067Z"}
+{"text":"hey hows it going?","nick":"neo","room":"hackz","date":"2020-05-19T01:49:55.100Z"}
+{"text":"what is this place?","nick":"neo","room":"matrix","date":"2020-05-19T01:50:16.898Z"}
+{"text":"haha","nick":"dude","room":"cool","date":"2020-05-19T04:18:20.469Z"}
+{"text":"hello","nick":"bro","room":"random","date":"2020-05-19T04:18:49.841Z"}
+{"text":"hello","nick":"dude","date":"2020-05-19T04:18:49.841Z"}
+{"text":"hello","nick":"dude","date":"2020-05-19T04:18:49.841Z"}
+
+{"text":"hello","nick":"dude","room":"coolness","date":"2021-04-27T00:47:58.428Z"}
+{"text":"sadfas","nick":"dude","room":"general","date":"2021-04-28T01:08:15.330Z"}
+{"text":"Hello","nick":null,"room":"","date":"2021-04-30T01:24:35.919Z"}
+
+
+{"text":"testing123","nick":"Lisa","room":"","date":"2021-04-30T01:25:33.757Z"}
+{"text":"what","nick":"jo","room":"","date":"2021-05-01T02:25:20.780Z"}
+{"text":"what","nick":"jo","room":"","date":"2021-05-01T02:25:23.316Z"}
+{"text":"what","nick":"jo","room":"","date":"2021-05-01T02:25:23.507Z"}
+{"text":"what","nick":"bob","room":"","date":"2021-05-01T02:33:06.354Z"}
+{"text":"what","nick":"joi","room":"","date":"2021-05-01T02:45:34.843Z"}
+{"text":"what","nick":"jo","room":"","date":"2021-05-01T02:46:08.353Z"}
+{"text":"hi","nick":"lisa","room":"","date":"2021-05-01T03:05:55.543Z"}
+{"text":"hi again","nick":"jo","room":"","date":"2021-05-01T03:06:39.207Z"}
+{"text":"what","nick":"jo","room":"","date":"2021-05-01T03:17:23.482Z"}
+{"text":"","nick":"jo","room":"","date":"2021-05-01T03:29:51.221Z"}
+{"text":"hihi","nick":"lisa","room":"","date":"2021-05-01T03:30:17.770Z"}
+{"text":"asdf","nick":"lisa","room":"","date":"2021-05-01T03:30:55.680Z"}
+{"text":"dfd","nick":"lisa","room":"","date":"2021-05-01T03:31:15.997Z"}
+{"text":"dfdd","nick":"lisa","room":"","date":"2021-05-01T03:31:23.385Z"}
+{"text":"asdf","nick":"jo","room":"","date":"2021-05-01T03:31:30.539Z"}
+{"text":"hihi","nick":"lisa","room":"","date":"2021-05-01T03:31:48.619Z"}
+{"text":"test","nick":"jo","room":"","date":"2021-05-01T03:32:08.700Z"}
+{"text":"testst","nick":"lisa","room":"","date":"2021-05-01T03:32:24.874Z"}
+{"text":"wut","nick":"jo","room":"","date":"2021-05-01T03:33:58.612Z"}
+{"text":"cool","nick":"lisa","room":"","date":"2021-05-01T03:35:36.515Z"}
+{"text":"cool cool","nick":"jo","room":"","date":"2021-05-01T03:35:41.882Z"}
+{"text":"srsly","nick":"lisa","room":"programming","date":"2021-05-01T03:36:46.945Z"}
+{"text":"right","nick":"jo","room":"programming","date":"2021-05-01T03:36:53.280Z"}
+{"text":"mine","nick":"lisa","room":"jo hangout","date":"2021-05-01T03:37:04.001Z"}
+{"text":"hihi","nick":"jo","room":"jo hangout","date":"2021-05-01T03:37:15.860Z"}
